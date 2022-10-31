@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://homedecos.github.io/interior-design/sitemapx.xml
